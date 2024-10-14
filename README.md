@@ -1,18 +1,14 @@
-## Welcome to my github page <img src="images/hand.gif" width="20px">
+## Welcome <img src="images/hand.gif" width="20px">
 
-Hello, I’m Valentine Dorum, a Software Developer in Test with a passion for test automation. I specialize in creating
-robust end-to-end automation scenarios and have a strong interest in DevOps tools such as GitHub Actions, Azure DevOps,
-and Jenkins.
+Hello, I’m Dima Scholkin, a Software Developer in Test with a passion for test automation. I specialize in creating robust end-to-end automation scenarios using the most reliable and modern frameworks.
 
 ### Summary👨🏻‍💻
 
-Automation engineer with over 6 years of experience in enterprise projects for prominent American companies.
+An experienced Automation Developer with a proven track record in Fintech, Automotive enterprise projects, and small startups.
 Specializes in creating end-to-end automation scenarios and conducting Rest API testing.
-Possesses extensive experience with web-based enterprise applications in talent acquisition, staffing, and interviewing
-domains.
-For the past 3 years, served as an automation engineer in the automotive industry, focusing on the development of
+Currently leading automation testing in startup company, focusing on the development of
 automation
-frameworks for vehicle infotainment systems. Capable in both team and solo settings, adeptly contributing to shared
+frameworks and mentoring QA team. Capable in both team and solo settings, adeptly contributing to shared
 objectives.
 
 <table style="text-align: center; margin: 0 auto;">
@@ -49,7 +45,7 @@ objectives.
     <th style="font-size: 10px;">Appium</th>
     <th style="font-size: 10px;">Cucumber</th>
     <th style="font-size: 10px;">Selenium</th>
-    <th style="font-size: 10px;">WebdriverIO</th>
+    <th style="font-size: 10px;">WDIO</th>
     <th style="font-size: 10px;">Playwright</th>
   </tr>
   <tr>
