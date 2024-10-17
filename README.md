@@ -72,7 +72,7 @@ objectives.
       </a></td>
     <td style="text-align: center;"><a href="https://www.webdriver.io/" title="WDIO">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/light/wdio_light.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="images/dark/wdio_dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="images/light/wdio_light.svg">
           <img style="display: block; margin: 0 auto;" height="30" src="images/light/wdio_light.svg" alt="wdio" width="60" title="wdio_icon">
         </picture>
