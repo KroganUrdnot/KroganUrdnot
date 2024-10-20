@@ -2,7 +2,7 @@
 
 Hello, I’m Dima Scholkin, a Software Developer in Test with a passion for test automation. I specialize in creating robust end-to-end automation scenarios using the most reliable and modern frameworks.
 
-### Summary👨🏻‍💻
+### Summary
 
 An experienced Automation Developer with a proven track record in Fintech, Automotive enterprise projects, and small startups.
 Specializes in creating end-to-end automation scenarios and conducting Rest API testing.
